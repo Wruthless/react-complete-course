@@ -1,6 +1,6 @@
 import './Card.css';
 
-function Card(props) {
+const Card = (props) => {
     // This enables the use of css styles on your custom component
     // when it is implemented.
 
