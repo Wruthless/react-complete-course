@@ -1,2 +1,2 @@
 # react-complete-course
-Source files for a react.js course I tool.
+Source files for a react.js course I took.
